@@ -1,0 +1,15 @@
+body {text-align: center;
+      background-color:white;
+      color: brown;
+}
+
+@media only screen and (max-width:600px){
+
+body {background-color: blue;
+
+}
+
+h1 {
+    background-color:yellow;
+    color:green;
+}
